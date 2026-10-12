@@ -18,15 +18,15 @@ st.set_page_config(
     layout="centered",
 )
 
-PRIMARY = "#590a04"
-NAVY = "#590a04"
+PRIMARY = "#34eb89"
+NAVY = "#34eb89"
 AMBER = "#E8A838"
 GREEN = "#2E7D32"
 RED = "#4f4c4c"
 
 st.markdown(f"""
 <style>
-    .main {{ background-color: #590a04; }}
+    .main {{ background-color: #34eb89; }}
     .stApp header {{ background-color: transparent; }}
     h1 {{ color: {NAVY}; }}
     .app-header {{
@@ -72,7 +72,7 @@ st.markdown(f"""
 st.markdown("""
 <div class="app-header">
     <h1>⏱️ İnşaat Proje Süresi Tahmin Aracı</h1>
-    <p>Yiğit Hacı Arif Kütük - 2022232602  </p>
+    <p>MEHMET EMİN DOLGUN - 2022232034  </p>
 </div>
 """, unsafe_allow_html=True)
 
